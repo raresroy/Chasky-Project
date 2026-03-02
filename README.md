@@ -74,7 +74,7 @@ Arquitectura diseñada siguiendo principios de:
 
 ---
 
-## 🎥 Video demostrativo
+## Video demostrativo
 
 **Demo funcional del sistema:**  
 https://www.youtube.com/watch?v=6v7Bef2CckY
